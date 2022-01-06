@@ -1,0 +1,10 @@
+*.iml
+.idea/
+deploy/
+out/
+
+.project
+.classpath
+
+.gradle
+build/
