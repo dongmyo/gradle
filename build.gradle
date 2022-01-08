@@ -1,0 +1,8 @@
+repositories {
+    mavenCentral()
+}
+
+task showRepositories {
+    println "repositories:" + repositories.collect { it.name }
+}
+
